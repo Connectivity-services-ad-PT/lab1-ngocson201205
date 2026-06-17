@@ -1,34 +1,34 @@
-# Checklist Buổi 1
+# Checklist Buoi 1
 
-Đánh dấu `[x]` khi đã hoàn thành.
+Danh dau `[x]` khi da hoan thanh. Kiem tra lai ngay 17/06/2026.
 
-## Công cụ
+## Cong cu
 
-- [ ] Git đã cài và chạy được `git --version`.
-- [ ] Docker đã cài và chạy được `docker --version`.
-- [ ] Docker Compose đã cài và chạy được `docker compose version`.
-- [ ] Node.js đã cài và chạy được `node --version`.
-- [ ] Python hoặc Miniconda đã cài và chạy được `python --version` hoặc `python3 --version`.
-- [ ] VS Code đã cài.
-- [ ] Postman đã cài.
+- [x] Git da cai va chay duoc `git --version`.
+- [x] Docker da cai va chay duoc `docker --version`.
+- [x] Docker Compose da cai va chay duoc `docker compose version`.
+- [x] Node.js da cai va chay duoc `node --version`.
+- [x] Python hoac Miniconda da cai va chay duoc `python --version` hoac `python3 --version`.
+- [x] VS Code da cai va chay duoc `code --version`.
+- [x] Postman da cai tai `C:\Users\LENOVO\AppData\Local\Postman\Postman.exe`.
 
 ## Docker
 
-- [ ] `docker run --rm hello-world` chạy thành công.
-- [ ] Đã chạy `scripts/pull_all` để pull image chuẩn.
-- [ ] Đã chạy `scripts/smoke_test`.
-- [ ] Mini-stack Docker Compose chạy được.
+- [x] `docker run --rm hello-world` chay thanh cong.
+- [x] Da chay `scripts/pull_all` de pull image chuan.
+- [x] Da chay `scripts/smoke_test`.
+- [x] Mini-stack Docker Compose chay duoc.
 
 ## GitHub
 
-- [ ] Đã clone repo lớp.
-- [ ] Đã tạo branch Buổi 1.
-- [ ] Đã commit minh chứng Buổi 1.
-- [ ] Đã push lên GitHub.
+- [x] Da clone repo lop.
+- [x] Repo dang dung branch `main` cho bai Buoi 1.
+- [x] Da co commit minh chung Buoi 1.
+- [x] Branch `main` dang dong bo voi `origin/main` tai thoi diem kiem tra.
 
 ## OBE Evidence
 
-- [ ] `evidence/buoi-01/tool-versions.txt` có nội dung.
-- [ ] `evidence/buoi-01/hello-world.txt` có nội dung.
-- [ ] `evidence/buoi-01/smoke-test-result.txt` có nội dung.
-- [ ] Nếu còn lỗi, đã ghi vào `known-issues.md`.
+- [x] `evidence/buoi-01/tool-versions.txt` co noi dung.
+- [x] `evidence/buoi-01/hello-world.txt` co noi dung.
+- [x] `evidence/buoi-01/smoke-test-result.txt` co noi dung.
+- [x] Neu con loi, ghi vao `known-issues.md`.
